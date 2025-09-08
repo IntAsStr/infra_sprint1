@@ -1,0 +1,5 @@
+IP: 89.169.162.168;
+name_taski: https://taskis.ddns.net;
+name_kittygram: https://kittyosgramus.duckdns.org;
+login: Orsted;
+password: 322musthave;
